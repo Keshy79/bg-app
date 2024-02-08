@@ -1,0 +1,9 @@
+.scrolls::-webkit-scrollbar{
+    height: 10px;
+    background-color: rgba(128, 128, 128, 0.623);
+    /* visibility: visible; */
+}
+.scrolls::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: grey;
+}
